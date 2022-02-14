@@ -8,18 +8,18 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ Part A of my program's functionality is to show how much someone would be paying per class per week depending tuition, length of the semester (in weeks), and the number of classes someone would be taking.
+ Part B of my program's functionality is creating a random number generator using a list.
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
-
+ N/A
 ## REFERENCES:
- < List any outside resources used >
+ n/a
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ n/a
